@@ -22,6 +22,7 @@ setup(
     # dependencies
     install_requires=[
         'boto>=2.32.0',
+        'boto3>=1.0.0',
         'pyyaml>=3.10'
     ],
     # additional files to include
